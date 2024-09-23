@@ -23,6 +23,10 @@ NetCat, also known as nc, is a command line utility that reads and writes data a
 * Any slurs detected sent by a client, he/she is kicked from the server.
 * Any client who is kicked from the server, their name will be banned from joining again.
 
+## Example
+
+https://github.com/user-attachments/assets/b524fabd-fd5d-4b68-a5a3-be1d4372684a
+
 ## USAGE
 
 To start the TCP server, simply run the below command:
@@ -77,8 +81,6 @@ Make sure the port number is exactly the same
 ## AUTHORS
 
 * Fatema Alawadhi
-* Asma Ahmed
-
 
 ## LICENSES
 
